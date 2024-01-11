@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+clone後の手順に
+$ bundle install
+$ yorn install
+$ rails db:create
+$ rails db:migrate
+を行ってください。
